@@ -9,31 +9,6 @@ export const Projects = () => {
                     {""}
                     Featured Projects
                 </h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-                       <h3 className="text-xl font-bold mb-2">Hotel Website</h3> 
-                       <p className="text-grey-400 mb-4"> Hotel HNG is a website that allows users to book hotel rooms and view hotel information.
-                       </p>
-                       <div>
-                        {["HTML","CSS"].map((skill,index)=>(
-                            <span 
-                            key={index}
-                                className=" bg-yellow-500/10 text-yellow py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
-                                                 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all">
-                                    {skill}           
-                                </span>
-                        ))}
-                        </div>
-                            <div className="flex justify-between items-center">
-                        <a
-                          href="#"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4">
-                            {" "}
-                            View Project -{" "}
-                        </a>
-                    </div>
-                       
-                    </div>
                     
                     <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                        <h3 className="text-xl font-bold mb-2">Login Page</h3> 
@@ -51,8 +26,8 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="#"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4">
+                          href="https://github.com/Nana23-hub/CONTACT-US-FORM.git"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
                         </a>
@@ -76,8 +51,8 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="#"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4">
+                          href="https://github.com/Nana23-hub/Gallery-gallery.git"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
                         </a>
@@ -101,8 +76,8 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="#"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4">
+                          href="https://github.com/Nana23-hub/Website-login.git"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
                         </a>
@@ -126,8 +101,8 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="#"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4">
+                          href="https://github.com/Nana23-hub/JavaScript-tutorial.git"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
                         </a>
@@ -152,8 +127,8 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="#"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4">
+                          href="https://github.com/Nana23-hub/JavaScript-tutorial.git"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
                         </a>
@@ -177,8 +152,8 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="#"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4">
+                          href="https://github.com/Nana23-hub/JavaScript-tutorial.git"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse ">
                             {" "}
                             View Project -{" "}
                         </a>
@@ -186,12 +161,13 @@ export const Projects = () => {
                        
                     </div>
 
+                    
                     <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-                       <h3 className="text-xl font-bold mb-2">E-Commerce Website</h3> 
-                       <p className="text-grey-400 mb-4"> An e-commerce website that allows users to browse and purchase products online.It also includes features such as user authentication,secure payment integration and customisable products inventory.
+                       <h3 className="text-xl font-bold mb-2">Lost and Found System</h3> 
+                       <p className="text-grey-400 mb-4"> You're tasked with building the backend for a campus Lost & Found system. Security staff or students can log found items, and users can view, update, and manage those entries.
                        </p>
                        <div  className="flex flex-wrap gap-2 mb-4">
-                        {["HTML","CSS","Javascript"].map((skill,index)=>(
+                        {["Node.js","Javascript","Express.js","MongoDB"].map((skill,index)=>(
                             <span 
                             key={index}
                                 className=" bg-yellow-500/10 text-yellow py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
@@ -202,14 +178,40 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="#"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4">
+                          href="https://github.com/Nana23-hub/-CAREEREX-API.git"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
                         </a>
                     </div>
                        
                     </div>
+
+                                        <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
+                       <h3 className="text-xl font-bold mb-2">Fintech Digital Wallet System (PayFlow)</h3> 
+                       <p className="text-grey-400 mb-4"> A Fintech Digital Wallet System that allows users to create an account, add funds, make payments, and view transaction history. It also includes features such as user authentication, secure payment integration, and transaction management.
+                       </p>
+                       <div  className="flex flex-wrap gap-2 mb-4">
+                        {["Node.js","Express.js","Javascript","MongoDB"].map((skill,index)=>(
+                            <span 
+                            key={index}
+                                className=" bg-yellow-500/10 text-yellow py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
+                                                 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all">
+                                    {skill}           
+                                </span>
+                        ))}
+                        </div>
+                            <div className="flex justify-between items-center">
+                        <a
+                          href="https://github.com/Nana23-hub/FINAL-CAREEREX-PROJECT.git"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
+                            {" "}
+                            View Project -{" "}
+                        </a>
+                    </div>
+                       
+                    </div>
+
 
                     <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                        <h3 className="text-xl font-bold mb-2">E-Commerce Fruit Store</h3> 
@@ -227,15 +229,15 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="#"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4">
+                          href="https://github.com/Nana23-hub/Fruits-Store.git"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
                         </a>
                     </div>
                        
                     </div>
-                </div>
+                
 
                 
                        
