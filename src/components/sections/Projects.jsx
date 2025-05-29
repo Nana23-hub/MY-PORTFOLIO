@@ -26,7 +26,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://nana23-hub.github.io/CONTACT-US-FORM/"
+                          href="https://nana23-hub.github.io/CONTACT-US-FORM/" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -51,7 +51,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href=" https://nana23-hub.github.io/Gallery-gallery/"
+                          href=" https://nana23-hub.github.io/Gallery-gallery/" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -77,7 +77,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://nana23-hub.github.io/JavaScript-projects/"
+                          href="https://nana23-hub.github.io/JavaScript-projects/" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -103,7 +103,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://nana23-hub.github.io/JavaScript-projects/"
+                          href="https://nana23-hub.github.io/JavaScript-projects/" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -128,7 +128,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://nana23-hub.github.io/JavaScript-projects/"
+                          href="https://nana23-hub.github.io/JavaScript-projects/" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse ">
                             {" "}
                             View Project -{" "}
@@ -153,7 +153,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://nana23-hub.github.io/JavaScript-projects/"
+                          href="https://nana23-hub.github.io/JavaScript-projects/" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse ">
                             {" "}
                             View Project -{" "}
