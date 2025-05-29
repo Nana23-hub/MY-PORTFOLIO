@@ -26,7 +26,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://github.com/Nana23-hub/CONTACT-US-FORM.git"
+                          href="https://nana23-hub.github.io/Website-login/"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -51,7 +51,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://github.com/Nana23-hub/Gallery-gallery.git"
+                          href=" https://nana23-hub.github.io/Gallery-gallery/"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -60,31 +60,7 @@ export const Projects = () => {
                        
                     </div>
 
-                    <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-                       <h3 className="text-xl font-bold mb-2">Appclick Admin Login Page</h3> 
-                       <p className="text-grey-400 mb-4"> Appclick ICT Academy admin Login Page that allows admin to login and to gain access to the portal dashboard.
-                       </p>
-                       <div  className="flex flex-wrap gap-2 mb-4"> 
-                        {["HTML","CSS"].map((skill,index)=>(
-                            <span 
-                            key={index}
-                                className=" bg-yellow-500/10 text-yellow py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
-                                                 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all">
-                                    {skill}           
-                                </span>
-                        ))}
-                        </div>
-                            <div className="flex justify-between items-center">
-                        <a
-                          href="https://github.com/Nana23-hub/Website-login.git"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
-                            {" "}
-                            View Project -{" "}
-                        </a>
-                    </div>
-                       
-                    </div>
-
+                    
                     <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                        <h3 className="text-xl font-bold mb-2">Word Counter App</h3> 
                        <p className="text-grey-400 mb-4"> This is a simple word counter app that counts the number of words,sentences,character and common words in a given text.
@@ -101,7 +77,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://github.com/Nana23-hub/JavaScript-tutorial.git"
+                          href="https://nana23-hub.github.io/JavaScript-projects/"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -127,7 +103,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://github.com/Nana23-hub/JavaScript-tutorial.git"
+                          href="https://nana23-hub.github.io/JavaScript-projects/"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -152,7 +128,32 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://github.com/Nana23-hub/JavaScript-tutorial.git"
+                          href="https://nana23-hub.github.io/JavaScript-projects/"
+                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse ">
+                            {" "}
+                            View Project -{" "}
+                        </a>
+                    </div>
+                       
+                    </div>
+
+                        <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
+                       <h3 className="text-xl font-bold mb-2">Random User Generator</h3> 
+                       <p className="text-grey-400 mb-4"> This is a simple random user generator application that allows users to generate random user profiles.
+                       </p>
+                       <div  className="flex flex-wrap gap-2 mb-4">
+                        {["HTML","CSS","Javascript"].map((skill,index)=>(
+                            <span 
+                            key={index}
+                                className=" bg-yellow-500/10 text-yellow py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
+                                                 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all">
+                                    {skill}           
+                                </span>
+                        ))}
+                        </div>
+                            <div className="flex justify-between items-center">
+                        <a
+                          href="https://nana23-hub.github.io/JavaScript-projects/"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse ">
                             {" "}
                             View Project -{" "}
