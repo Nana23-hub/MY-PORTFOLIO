@@ -9,58 +9,6 @@ export const Projects = () => {
                     {""}
                     Featured Projects
                 </h2>
-                    
-                    <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-                       <h3 className="text-xl font-bold mb-2">Login Page</h3> 
-                       <p className="text-grey-400 mb-4"> A simple login page that allows users to login to their account.
-                       </p>
-                       <div className="flex flex-wrap gap-2 mb-4">
-                        {["HTML","CSS"].map((skill,index)=>(
-                            <span 
-                            key={index}
-                                className=" bg-yellow-500/10 text-yellow py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
-                                                 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all">
-                                    {skill}           
-                                </span>
-                        ))}
-                        </div>
-                            <div className="flex justify-between items-center">
-                        <a
-                          href="https://nana23-hub.github.io/CONTACT-US-FORM/" target="_blank"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
-                            {" "}
-                            View Project -{" "}
-                        </a>
-                    </div>
-                       
-                    </div>
-
-                    <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-                       <h3 className="text-xl font-bold mb-2">Gallery Page</h3> 
-                       <p className="text-grey-400 mb-4">A Gallery Page that displays images of different categories of building.
-                       </p>
-                       <div  className="flex flex-wrap gap-2 mb-4">
-                        {["HTML","CSS"].map((skill,index)=>(
-                            <span 
-                            key={index}
-                                className=" bg-yellow-500/10 text-yellow py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
-                                                 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all">
-                                    {skill}           
-                                </span>
-                        ))}
-                        </div>
-                            <div className="flex justify-between items-center">
-                        <a
-                          href=" https://nana23-hub.github.io/Gallery-gallery/" target="_blank"
-                            className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
-                            {" "}
-                            View Project -{" "}
-                        </a>
-                    </div>
-                       
-                    </div>
-
-                    
                     <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                        <h3 className="text-xl font-bold mb-2">Word Counter App</h3> 
                        <p className="text-grey-400 mb-4"> This is a simple word counter app that counts the number of words,sentences,character and common words in a given text.
@@ -77,7 +25,8 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://nana23-hub.github.io/JavaScript-projects/" target="_blank"
+                          href="java-script-projects-eight-sandy.vercel.app" target="_blank"
+                            
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -103,7 +52,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://nana23-hub.github.io/JavaScript-projects/" target="_blank"
+                          href="java-script-projects-eight-sandy.vercel.app" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -128,7 +77,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://nana23-hub.github.io/JavaScript-projects/" target="_blank"
+                          href="java-script-projects-eight-sandy.vercel.app" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse ">
                             {" "}
                             View Project -{" "}
@@ -153,7 +102,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://nana23-hub.github.io/JavaScript-projects/" target="_blank"
+                          href="java-script-projects-eight-sandy.vercel.app" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse ">
                             {" "}
                             View Project -{" "}
@@ -179,7 +128,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://github.com/Nana23-hub/-CAREEREX-API.git"
+                          href="https://careerex-api-1.onrender.com"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -188,7 +137,7 @@ export const Projects = () => {
                        
                     </div>
 
-                                        <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
+                    <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                        <h3 className="text-xl font-bold mb-2">Fintech Digital Wallet System (PayFlow)</h3> 
                        <p className="text-grey-400 mb-4"> A Fintech Digital Wallet System that allows users to create an account, add funds, make payments, and view transaction history. It also includes features such as user authentication, secure payment integration, and transaction management.
                        </p>
@@ -204,7 +153,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="https://github.com/Nana23-hub/FINAL-CAREEREX-PROJECT.git"
+                          href="https://final-careerex-project.onrender.com"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -214,7 +163,7 @@ export const Projects = () => {
                     </div>
 
 
-                    <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
+                    {/* <div className="p-6 rounded-xl border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                        <h3 className="text-xl font-bold mb-2">E-Commerce Fruit Store</h3> 
                        <p className="text-grey-400 mb-4"> An e-commerce Fruitstore that allows users to browse and purchase products online.It also includes features such as user authentication,secure payment.
                        </p>
@@ -237,7 +186,7 @@ export const Projects = () => {
                         </a>
                     </div>
                        
-                    </div>
+                    </div> */}
                 
 
                 
