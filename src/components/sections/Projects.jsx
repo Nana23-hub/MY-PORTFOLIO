@@ -25,7 +25,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="java-script-projects-eight-sandy.vercel.app" target="_blank"
+                          href="https://java-script-projects-eight-sandy.vercel.app" target="_blank"
                             
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
@@ -52,7 +52,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="java-script-projects-eight-sandy.vercel.app" target="_blank"
+                          href="https://java-script-projects-eight-sandy.vercel.app" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse">
                             {" "}
                             View Project -{" "}
@@ -77,7 +77,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="java-script-projects-eight-sandy.vercel.app" target="_blank"
+                          href="https://java-script-projects-eight-sandy.vercel.app" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse ">
                             {" "}
                             View Project -{" "}
@@ -102,7 +102,7 @@ export const Projects = () => {
                         </div>
                             <div className="flex justify-between items-center">
                         <a
-                          href="java-script-projects-eight-sandy.vercel.app" target="_blank"
+                          href="https://java-script-projects-eight-sandy.vercel.app" target="_blank"
                             className="text-yellow-400 hover:text-blue-300 transition-colors my-4 animate-pulse ">
                             {" "}
                             View Project -{" "}
